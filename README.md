@@ -3,7 +3,7 @@
 This is the **Frontend** of the Inventory Management System, developed using **React.js**. It communicates with the **Spring Boot** backend via **Axios** to perform CRUD operations on inventory items, categories, suppliers, and more.
 
 > ✅ This project is part of a full-stack Inventory Management System.  
-> 🌐 Backend Repository: [Link to Backend Repo] (if public)
+> 🌐 Backend Repository: [Link to Backend Repo](https://github.com/kaws26/InventoryManagement-Backend) 
 
 ---
 
